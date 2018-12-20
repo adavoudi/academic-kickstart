@@ -10,31 +10,22 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+"Machine Learning", "Deep Neural Networks", "Computer Vision", "Image Processing", "Natural Language Processing", "Brain-Computer Interfaces"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "MSc Computer Engineering, Artificial Intelligence"
+  institution = "Amirkabir University of Technology (Tehran Polytechnic)"
+  year = 2017
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BSc Computer Engineering, Software Engineering"
+  institution = "Persian Gulf University"
+  year = 2015
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am currently a Deep Learning Researcher and Computer Vision Developer at [Faraadid Co](http://www.faraadid.com/VisitorPages/default.aspx?itemid=3). I received my M.Sc. from Machine Learning and Robotics Laboratory of [Amirkabir University of Technology (Tehran Polytechnic)](http://aut.ac.ir/aut/) under supervision of Dr. S. Shiry, where I worked on the application of Riemannian geometry in the field of Brain-computer interfaces. I also did my B.Sc. project under supervision of Dr. A. Kesharvarz at the Persian Gulf University of Bushehr in the field of image processing.

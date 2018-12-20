@@ -9,7 +9,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Alireza's homepage"
+title = "Alireza's Homepage"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -234,13 +234,13 @@ enableGitInfo = false
     #   2 = APA
     #   3 = MLA
     #   4 = Stream
-    publication_format = 4
+    # publication_format = 4
 
     # Talk list format.
     #   0 = Simple
     #   1 = Detailed
     #   2 = Stream
-    talk_format = 2
+    # talk_format = 2
 
   # Social/Academic Networking
   #
